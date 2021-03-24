@@ -58,7 +58,7 @@
 
 ```
 
-### 8. Checks date formart (YYYY-MM-DD)
+### 8. Checks date format (YYYY-MM-DD)
 
 ```
 
@@ -66,7 +66,7 @@
 
 ```
 
-### 9. Checks date formart (DD/MM/YYYY)
+### 9. Checks date format (DD/MM/YYYY)
 
 ```
 
@@ -74,7 +74,7 @@
 
 ```
 
-### 10. Checks time formart (HH:MM:SS )
+### 10. Checks time format (HH:MM:SS )
 
 ```
 
